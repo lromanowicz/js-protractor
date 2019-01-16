@@ -1,0 +1,15 @@
+{
+  "name": "4_protractor_intermediate",
+  "version": "1.0.0",
+  "description": "Protractor with Page Object Pattern",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node_modules/protractor/bin/webdriver-manager update",
+    "test": "node_modules/protractor/bin/protractor protractor.conf.js"
+  },
+  "author": "lromanowicz",
+  "license": "ISC",
+  "dependencies": {
+    "protractor": "^5.4.2"
+  }
+}
