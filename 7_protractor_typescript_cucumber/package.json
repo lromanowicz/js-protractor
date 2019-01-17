@@ -1,0 +1,25 @@
+{
+  "name": "7_protractor_typescript_cucumber",
+  "version": "1.0.0",
+  "description": "Protractor with TypeScript and Cucumber",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node_modules/protractor/bin/webdriver-manager update",
+    "test": "node_modules/protractor/bin/protractor protractor.conf.js --baseUrl=\"http://jacekokrojek.github.io/jak-to-zrobic-w-js/\""
+  },
+  "author": "lromanowicz",
+  "license": "ISC",
+  "dependencies": {
+    "@types/chai": "^4.1.7",
+    "@types/cucumber": "^4.0.4",
+    "chai": "^4.2.0",
+    "cli-color": "^1.4.0",
+    "cucumber": "^5.1.0",
+    "cucumber-pretty": "^1.5.0",
+    "protractor": "^5.4.2",
+    "protractor-cucumber-framework": "^6.1.1",
+    "protractor-multiple-cucumber-html-reporter-plugin": "^1.8.0",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.2"
+  }
+}
