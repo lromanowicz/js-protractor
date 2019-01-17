@@ -6,13 +6,13 @@ Each of modules 1-7 is a separate Node.js project.
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Workshop modules](#workshop-modules)
-	- [1_package_json](#1packagejson)
-	- [2_javascript_basics](#2javascriptbasics)
-	- [3_protractor](#3protractor)
-	- [4_protractor_intermediate](#4protractorintermediate)
-	- [5_protractor_advanced](#5protractoradvanced)
-	- [6_protractor_cucumber](#6protractorcucumber)
-	- [7_protractor_typescript_cucumber](#7protractortypescriptcucumber)
+	- [1_package_json](#1_package_json)
+	- [2_javascript_basics](#2_javascript_basics)
+	- [3_protractor](#3_protractor)
+	- [4_protractor_intermediate](#4_protractor_intermediate)
+	- [5_protractor_advanced](#5_protractor_advanced)
+	- [6_protractor_cucumber](#6_protractor_cucumber)
+	- [7_protractor_typescript_cucumber](#7_protractor_typescript_cucumber)
 
 
 # Installation
