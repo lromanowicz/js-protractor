@@ -1,6 +1,6 @@
 exports.config = {
     framework: 'jasmine',
-    specs: ['./e2e/specs/interacting-with-elements/waiting-for-events.spec.js'],
+    specs: ['./e2e/specs/**/*.spec.js'],
     capabilities: {
         browserName: 'chrome'
     },
